@@ -7,6 +7,7 @@ void main()
 {
     double area = 0.0;
     double a, b, c, s;
+
     printf("Plz enter the 3 sides of a triangle\n ");
     scanf("%lf %lf %lf", &a, &b, &c);
     s = (a + b + c) / 2;
